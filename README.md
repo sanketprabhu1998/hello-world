@@ -1,2 +1,1 @@
-# hello-world
-just another repository
+I am just another human being who loves to code and grow new skills everyday in my life...
